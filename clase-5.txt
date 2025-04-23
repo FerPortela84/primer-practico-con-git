@@ -1,0 +1,8 @@
+estamos en la clase 5 de Desarrollo
+
+En esta clase veremos:
+- Git
+- GitHub
+
+
+Instalación de Git
